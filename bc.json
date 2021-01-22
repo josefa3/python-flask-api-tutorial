@@ -215,7 +215,7 @@
         {
             "slug": "08.2-finish-todos",
             "title": "08.2-finish-todos",
-            "done": false,
+            "done": true,
             "path": ".breathecode/exercises/08.2-finish-todos",
             "translations": [
                 "es",
